@@ -1,0 +1,13 @@
+# NUNCA versionar la cookie de sesión
+secrets.json
+
+# Configuración local (las URLs de cada proyecto). Se versiona solo el ejemplo.
+config.json
+
+# Datos y logs de las corridas: contienen handles y textos de terceros
+data/
+*.jsonl
+
+__pycache__/
+*.pyc
+.venv/

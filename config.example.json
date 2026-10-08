@@ -1,0 +1,13 @@
+{
+  "post_urls": [
+    "https://www.instagram.com/p/SHORTCODE/"
+  ],
+  "cuentas": [],
+  "max_posts_por_cuenta": 20,
+  "max_comentarios_por_post": null,
+  "max_minutos_por_post": null,
+  "incluir_respuestas": false,
+  "delay_entre_requests": [3.0, 7.0],
+  "delay_entre_posts": [5.0, 12.0],
+  "max_reintentos": 3
+}
